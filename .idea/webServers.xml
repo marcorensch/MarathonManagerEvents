@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="95109088-a1b5-4392-877a-fd74143555e0" name="Marathon" url="http://marathon.local">
+        <fileTransfer mountedRoot="$USER_HOME$/Sites/marathon" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>

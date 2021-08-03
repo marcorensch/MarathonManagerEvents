@@ -1,0 +1,12 @@
+.nx-event-image-container {
+    padding-bottom: 100%;
+    position: relative;
+
+}
+.nx-event-image-background{
+    width: calc(100% - 4px);
+    height: calc(100% - 4px);
+    padding:2px;
+    background: rgb(189,29,29);
+    background: linear-gradient(285deg, rgba(189,29,29,1) 0%, rgba(121,9,9,1) 35%, rgba(255,87,0,1) 100%);
+}
